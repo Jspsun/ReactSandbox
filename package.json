@@ -1,5 +1,5 @@
 {
-  "name": "reactboilerplate",
+  "name": "reactsandbox",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "lintproject": "./node_modules/.bin/eslint ./",
     "lint": "./node_modules/.bin/eslint",
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "build-storybook": "build-storybook -c .storybook -o dist"
   },
   "keywords": [],
   "author": "",
