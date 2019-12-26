@@ -1,11 +1,8 @@
-# Intro To React and Best Practices
-
-## Running the demo
-1. `npm start`
-2. navigate to http://localhost:9000/
+# React Sandboxer
+I wanted to spend some time making some random react components that I can later turn into a nice library. This was the template I set up for myself to have a nice blank canvas to write components. I've also set up this repo to output a deployable version of your storybook server in the `/dist/` directory if you `npm run build-storybook`.
 
 # Running storybook
-1. 'npm run storybook'
+1. `npm run storybook`
 2. navigate to http://localhost:6006/
 
 ## Some useful articles that will help you bootstrap your first react project:
