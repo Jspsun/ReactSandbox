@@ -1,4 +1,4 @@
-# React Sandboxer
+# React Sandbox
 I wanted to spend some time making some random react components that I can later turn into a nice library. This was the template I set up for myself to have a nice blank canvas to write components. I've also set up this repo to output a deployable version of your storybook server in the `/dist/` directory if you `npm run build-storybook`.
 
 # Running storybook
