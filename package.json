@@ -1,7 +1,7 @@
 {
-  "name": "reactsandbox",
+  "name": "react-sandbox",
   "version": "1.0.0",
-  "description": "",
+  "description": "Template for ready-to-go react sandboxing",
   "scripts": {
     "lintproject": "./node_modules/.bin/eslint ./",
     "lint": "./node_modules/.bin/eslint",
@@ -9,7 +9,11 @@
     "build-storybook": "build-storybook -c .storybook -o dist"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jonathan Sun",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jspsun/ReactSandbox.git"
+  },
   "license": "ISC",
   "babel": {
     "presets": [
