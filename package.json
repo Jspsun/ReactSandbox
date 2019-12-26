@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Template for ready-to-go react sandboxing",
   "scripts": {
-    "lintproject": "./node_modules/.bin/eslint ./",
+    "lintproject": "npm run lint ./src ./stories",
     "lint": "./node_modules/.bin/eslint",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook -c .storybook -o dist"
